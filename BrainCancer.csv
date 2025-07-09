@@ -1,0 +1,89 @@
+﻿ID,Sex,Diagnosis,Location,KI,GTV,Stereotactic methods,status,OS
+1,female,meningioma,infratentorial,90,6.11,srs,0,57.63934426
+2,male,hg_ glioma,supratentorial,90,19.35,srt,1,8.983606557
+3,female,meningioma,infratentorial,70,7.95,srs,0,26.45901639
+4,female,lg_glioma,supratentorial,80,7.61,srt,1,47.80327869
+6,male,hg_ glioma,supratentorial,90,5.06,srt,1,6.295081967
+7,female,meningioma,supratentorial,80,4.82,srs,0,52.75409836
+9,male,meningioma,supratentorial,80,3.19,srt,0,55.80327869
+10,male,lg_glioma,supratentorial,80,12.37,srt,0,42.09836066
+11,female,meningioma,supratentorial,70,12.16,srt,0,34.6557377
+12,male,hg_ glioma,supratentorial,100,2.53,srt,0,11.47540984
+13,male,lg_glioma,supratentorial,80,0.14,srt,1,35.93442623
+14,female,meningioma,infratentorial,90,6.54,srs,0,34.26229508
+15,female,meningioma,infratentorial,90,0.63,srs,0,32.98360656
+17,male,other,supratentorial,90,6.38,srt,0,50.85245902
+18,female,meningioma,supratentorial,60,9.18,srt,0,41.44262295
+19,female,hg_ glioma,supratentorial,70,11.38,srs,1,7.049180328
+20,female,other,infratentorial,60,24,srt,1,6.819672131
+21,male,hg_ glioma,supratentorial,90,10.8,srt,0,82.55737705
+22,male,meningioma,supratentorial,80,13.49,srs,1,6.918032787
+23,female,meningioma,supratentorial,90,2.5,srt,0,30.16393443
+25,female,meningioma,supratentorial,80,2.82,srs,0,24.39344262
+26,male,hg_ glioma,supratentorial,70,14.44,srt,1,14
+27,female,other,infratentorial,80,2.11,srs,0,10.49180328
+28,female,meningioma,infratentorial,100,2.13,srs,1,51.01639344
+30,female,meningioma,supratentorial,70,6.48,srt,1,33.40983607
+31,male,lg_glioma,supratentorial,90,4.23,srt,1,25.01639344
+32,male,other,supratentorial,60,34.64,srt,1,11.57377049
+33,male,hg_ glioma,supratentorial,70,33.69,srt,1,0.06557377
+34,male,meningioma,supratentorial,60,3.81,srt,0,36.09836066
+35,female,meningioma,supratentorial,90,4.72,srs,0,65.01639344
+36,female,lg_glioma,supratentorial,80,0.85,srs,1,6.098360656
+37,male,meningioma,supratentorial,90,2.56,srs,0,44.39344262
+38,female,other,infratentorial,70,13.45,srt,1,10.81967213
+39,male,other,infratentorial,80,6.81,srs,0,57.1147541
+41,female,meningioma,supratentorial,90,7.3,srt,0,5.508196721
+42,female,other,supratentorial,70,14.26,srt,0,7.180327869
+43,female,meningioma,supratentorial,80,6.6,srt,0,14.75409836
+44,male,hg_ glioma,supratentorial,90,9.95,srt,1,6.229508197
+45,male,other,infratentorial,80,12.51,srt,1,29.70491803
+46,female,meningioma,supratentorial,90,2.54,srt,0,45.73770492
+47,female,meningioma,supratentorial,80,1.57,srt,0,2.032786885
+49,male,hg_ glioma,supratentorial,90,0.28,srt,1,16.42622951
+50,female,meningioma,supratentorial,70,6.7,srt,0,14.55737705
+51,male,meningioma,supratentorial,80,12.63,srt,1,4.163934426
+52,male,other,infratentorial,90,3.12,srt,0,18.95081967
+53,male,meningioma,supratentorial,60,7.09,srs,1,31.24590164
+54,male,hg_ glioma,supratentorial,80,29.27,srt,0,5.147540984
+55,female,meningioma,supratentorial,80,26.31,srt,1,39.54098361
+56,male,meningioma,supratentorial,70,0.97,srt,1,1.409836066
+58,female,lg_glioma,supratentorial,80,0.19,srs,0,11.50819672
+59,female,hg_ glioma,supratentorial,90,0.04,srt,0,31.67213115
+60,female,meningioma,infratentorial,90,9.24,srt,0,26.85245902
+61,male,hg_ glioma,supratentorial,90,2.5,srt,1,9.770491803
+63,male,meningioma,infratentorial,80,24.41,srt,0,39.54098361
+64,female,hg_ glioma,supratentorial,80,0.63,srt,1,16.91803279
+65,male,other,infratentorial,90,0.48,srs,0,54.42622951
+66,male,hg_ glioma,infratentorial,80,0.22,srs,0,33.67213115
+67,male,hg_ glioma,supratentorial,80,3.75,srt,1,19.90163934
+68,female,other,supratentorial,80,11.83,srt,1,22.03278689
+69,female,meningioma,supratentorial,90,2.47,srt,0,17.57377049
+70,female,hg_ glioma,supratentorial,80,12.08,srt,1,7.245901639
+71,male,meningioma,supratentorial,80,11.51,srt,1,14.62295082
+72,female,hg_ glioma,supratentorial,40,22.87,srt,1,3.37704918
+73,male,meningioma,supratentorial,80,4.77,srt,0,67.37704918
+74,male,lg_glioma,supratentorial,80,9.58,srt,0,78.75409836
+75,female,meningioma,supratentorial,100,4,srt,0,52.2295082
+76,female,hg_ glioma,supratentorial,80,7.59,srt,1,4.557377049
+77,male,other,infratentorial,70,0.01,srs,0,23.67213115
+78,female,meningioma,supratentorial,80,6.93,srs,0,10.09836066
+79,female,meningioma,supratentorial,70,3.63,srt,0,32.81967213
+80,male,meningioma,supratentorial,70,8.45,srt,0,19.40983607
+81,male,meningioma,supratentorial,80,20.93,srt,1,31.14754098
+82,male,lg_glioma,supratentorial,90,2.64,srt,0,20.13114754
+83,female,hg_ glioma,supratentorial,80,0.19,srt,1,11.01639344
+84,male,other,supratentorial,100,24.91,srt,0,19.73770492
+85,female,meningioma,supratentorial,80,31.74,srt,0,57.24590164
+86,female,meningioma,supratentorial,80,2.39,srs,0,73.73770492
+87,female,meningioma,supratentorial,90,7.26,srt,0,49.04918033
+90,female,meningioma,supratentorial,100,9.66,srt,0,39.24590164
+91,female,meningioma,infratentorial,70,2.94,srs,0,1.540983607
+92,female,hg_ glioma,supratentorial,80,15.45,srt,1,46.16393443
+93,female,other,supratentorial,90,1.82,srt,0,47.1147541
+94,male,lg_glioma,infratentorial,90,30.41,srt,0,1.180327869
+95,male,hg_ glioma,supratentorial,80,0.16,srt,1,20.68852459
+97,male,hg_ glioma,supratentorial,80,19.81,srt,1,6.393442623
+98,male,meningioma,supratentorial,90,2.5,srt,0,32.81967213
+99,male,meningioma,supratentorial,90,2.02,srs,0,42.06557377
+101,male,other,infratentorial,80,0.11,srt,0,13.90163934
