@@ -1,0 +1,1 @@
+Conditional GAN (cGAN) implementation for generating synthetic data in survival analysis. This project demonstrates how conditioning on Overall Survival (OS) enables realistic, privacy-preserving data generation using a brain cancer dataset. Includes full preprocessing pipeline, model architecture, adversarial training, and synthetic data generation workflows.
